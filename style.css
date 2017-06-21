@@ -1,7 +1,11 @@
 body {
 	font-family: sans-serif;
 	background-color: lightgreen;
+
+}
+h1{
 	color: #673AB7;
+
 }
 h2{
 	border: 5px solid blue;

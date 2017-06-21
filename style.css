@@ -3,12 +3,8 @@ body {
 	background-color: lightgreen;
 	color: #673AB7;
 }
-h2{
+h1{
 	border-style: solid;
     border-color: purple;
     border-width: 3px;
-}
-
-#summary{
-	color: purple;
 }

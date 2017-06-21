@@ -10,3 +10,9 @@ h1{
 h2{
 	border: 5px solid blue;
 }
+
+#cant_escpape {
+	position: fixed;
+	top: 5px;
+	right: 5px;
+}

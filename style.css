@@ -1,6 +1,12 @@
 body {
 	font-family: sans-serif;
 	background-color: lightgreen;
+	color: #673AB7;
+}
+h2{
+	border-style: solid;
+    border-color: purple;
+    border-width: 3px;
 }
 
 #summary{

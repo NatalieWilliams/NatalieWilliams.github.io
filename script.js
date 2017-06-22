@@ -1,3 +1,4 @@
+alert("hello")
 var userInput = promt("Whats your name")
 
 

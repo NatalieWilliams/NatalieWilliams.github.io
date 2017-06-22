@@ -1,5 +1,6 @@
 alert("hello")
-var userInput = prompt("Whats your name")
+
+var userInput = prompt("Whats ")
 
 
 document.getElementById("text").style.backgroundColor = "red"
